@@ -37,8 +37,10 @@ position: absolute;
   margin-top: -90px;
   font-size: 17px;
   text-decoration: none;
-  color: black;
-
+  color:#044d4f;
+}
+#w2:hover{
+  color: white;
 }
 #w3{
   position: absolute;
@@ -46,7 +48,7 @@ position: absolute;
   margin-top: -90px;
   font-size: 17px;
   text-decoration: none;
-  color: black;
+  color: #044d4f;
 }
 #w4{
   position: absolute;
@@ -54,7 +56,13 @@ position: absolute;
   margin-top: -90px;
   font-size: 17px;
   text-decoration: none;
-  color: black;
+  color:#044d4f;
+}
+#w4:hover{
+  color: white;
+}
+#w3:hover{
+  color: white;
 }
 
 
@@ -126,7 +134,7 @@ position: absolute;
   font-weight: bold;
 }
 #w15{
-  background-color: blueviolet;
+  background-color: plum;
   color: white;
   text-decoration:none;
   height: 47px;
@@ -139,7 +147,7 @@ position: absolute;
   display: flex;
   
 }
-.w16{
+ .w16{
   color: white;
   font-weight: bold;
   margin-left: 80px;
@@ -293,3 +301,88 @@ position: absolute;
 #t2{
   padding-left: -25px;
 }
+#co{
+  text-decoration: none;
+  color: white;
+}
+#i42{
+  width: 290px;
+  background-color: white;
+  position: absolute;
+  margin-top: 400px;
+  height: 50px;
+  margin-left: -140px;
+  font-size: large;
+  padding-left: 20px;
+}
+#ca{
+  position: absolute;
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: 415px;
+  margin-left: 49px;
+  color: gray;
+  border: 0px;
+}
+#de{
+  padding-top: -12px;
+}
+#if99{
+  position: absolute;
+  margin-top: 418px;
+  height: 13px;
+  width: 12px;
+  color: plum;
+  margin-left: -131px;
+}
+#in7{
+  background-color: plum;
+  color: white;
+  width: 90px;
+  height: 50px;
+  font-size: large;
+  font-weight: bold;
+  position: absolute;
+  margin-top: 460px;
+  margin-left: -110px;
+}
+#i52{
+  width: 230px;
+  background-color: white;
+  position: absolute;
+  margin-top: 400px;
+  height: 50px;
+  margin-left: 170px;
+  font-size: large;
+  padding-left: 25px;
+}
+#df{
+  margin-top: -21px;
+  margin-left: 0px;
+  font-size: 12px;
+}
+#cb{
+  position: absolute;
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: 415px;
+  margin-left: 279px;
+  color: gray;
+  border: 0px;
+}
+#if98{
+  position: absolute;
+  margin-top: 414px;
+  height: 13px;
+  width: 12px;
+  color: plum;
+  margin-left: 185px;
+  font-size: 20px;
+}
+#uy{
+  text-decoration: none;
+  color: purple;
+}
+  
+
+
