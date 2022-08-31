@@ -10,7 +10,7 @@ height: 530px;
 margin-left: 715px;
 margin-top: 70px;
 width: 500px;
- background-color:#119b9d;
+ background-color:green;
 position: absolute;
 }
 #i2{
@@ -375,7 +375,7 @@ position: absolute;
   margin-top: 414px;
   height: 13px;
   width: 12px;
-  color: red;
+  color: plum;
   margin-left: 185px;
   font-size: 20px;
 }
