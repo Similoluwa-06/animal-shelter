@@ -140,6 +140,9 @@ position: absolute;
   height: 47px;
   box-shadow: 0px, 4px, 4px, lightgrey;
 }
+#w15:hover{
+color: white;
+}
 #as4{
   height: 520px;
   width: 1215px;
@@ -345,6 +348,9 @@ position: absolute;
   position: absolute;
   margin-top: 460px;
   margin-left: -110px;
+}
+#in7:hover{
+  color: white;
 }
 #i52{
   width: 230px;
