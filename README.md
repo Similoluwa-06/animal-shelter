@@ -10,13 +10,15 @@
 * BOOTSTRAP
 * JAVASCRIPT CAROUSEL 
 * FONT AWESOME 
+* Visual Code Studio 
 
 ## Description
- This a cloned version of The Shelter Pet Project website 
+ This a cloned version of The Shelter Pet Project website. The Shelter pet website is an animal shelter website that provides care for animals and offer them for adoption to responsible caretakers.
 
  ## Setup/Installation Requirements
- * Install Bootstrap
- * Download Images
+ * Clone to desktop
+ * Navigate to the top
+ * Open in index.html
 
  # Known Bugs
  * *Putting images to the center*
